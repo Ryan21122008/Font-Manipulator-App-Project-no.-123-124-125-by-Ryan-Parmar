@@ -1,0 +1,27 @@
+.heading{
+    font-size:35px;
+    margin:0px;
+    box-shadow:5px 5px grey;
+    width:100%;
+}
+#note{
+    font-size:25px;
+    color:black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.footer{
+    width:100%;
+    padding:5px;
+    position:fixed;
+    bottom:0;
+    background-color:dodgerblue;
+    font-size:20px;
+}
+canvas{
+    box-shadow:8px 10px 10px grey;
+    background-color:beige;
+    border-radius:3px;
+}
+video{
+    margin-left:100px;
+}
